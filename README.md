@@ -1,4 +1,4 @@
-# Funger Count using OpenCV
+# Finger Count using OpenCV
 
 Determines how many fingers you are holding using OpenCV and Python.
 
@@ -17,5 +17,10 @@ These instructions will get you a copy of the project up and running on your loc
 3. Convex Hull
 4. Video Capture
 
+### Final Output:
+
+<img src="finger_count1.png">
+<img src="finger_count2.png">
+
 ### Contributers:
-@srinijadharani
+@Srinija Dharani
