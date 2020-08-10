@@ -23,4 +23,4 @@ These instructions will get you a copy of the project up and running on your loc
 <img src="finger_count2.png">
 
 ### Contributers:
-@(Srinija Dharani)
+@[Srinija Dharani]
